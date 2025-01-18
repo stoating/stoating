@@ -16,6 +16,7 @@ My professional career has focused on embedded systems development, but my techn
 In my free time, I enjoy:
 
 - Programming personal projects
+- Being a dad
 - Camping
 - Traveling
 - Dabbling in art
